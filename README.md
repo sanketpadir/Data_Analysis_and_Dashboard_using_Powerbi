@@ -73,7 +73,7 @@ The Power BI dashboard is an interactive visualization tool that summarizes the 
 
 # Running the Power BI Dashboard :
 
-1.Open the "Company Sales Dashboard.pbix" file using Power BI.
+1.Open the "Company Sales.pbix" file using Power BI.
 
 2.Explore the interactive dashboard and visualizations to gain insights into the company's sales performance and find answers to the company's specific questions.
 
